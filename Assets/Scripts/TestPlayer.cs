@@ -21,7 +21,6 @@ public class TestPlayer : MonoBehaviour
 
         rb2D.velocity = movement;
 
-        if (Input)
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
